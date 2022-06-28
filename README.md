@@ -1,4 +1,10 @@
-  ##
+<div align="center">
+
+Hi I'm Gabriel 👋
+==========================
+</div>
+
+<br>
 
 <div align="center">
   <a href="https://github.com/gabrielyoshikawa">
