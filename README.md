@@ -19,7 +19,7 @@
   ##
   
 <div align="center">
-  <a href="https://https://www.linkedin.com/in/gabriel-koti-586864243/">
+  <a href="https://www.linkedin.com/in/gabriel-koti-586864243/">
   <img align="center" alt="Python-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
 </div>
 
