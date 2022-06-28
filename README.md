@@ -17,7 +17,11 @@
 </div>
  
   ##
- 
+  
+<div align="center">
+  <img align="center" alt="Python-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"link=https://www.linkedin.com/in/guilhermo-masid-494677b8/)](https://www.linkedin.com/in/guilhermo-masid-494677b8/)>
+</div>
+
 <div align="center">
 
 ![Snake animation](https://github.com/gabrielyoshikawa/gabrielyoshikawa/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
