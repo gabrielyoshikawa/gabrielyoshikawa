@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there! 👋</h1>
 
-<h2 align="center"> I'm Gabriel (20 y.o) 😎</h2>
+<h2 align="center"> I'm Gabriel 😎</h2>
   
 <br>
 
