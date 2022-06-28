@@ -1,9 +1,7 @@
-<div align="center">
+<h1 align="center"> Hi there! 👋</h1>
 
-Hi I'm Gabriel 👋
-==========================
-</div>
-
+<h2 align="center"> I'm Gabriel (20 y.o) 😎</h2>
+  
 <br>
 
 <div align="center">
