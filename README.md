@@ -24,7 +24,7 @@
   ##
 <h3 align="center"> Connect with me:</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/gabriel-koti-586864243/">
+  <a href="https://www.linkedin.com/in/gabriel-koti-586864243/" target="_blank">
   <img align="center" alt="Python-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
 </div>
 
