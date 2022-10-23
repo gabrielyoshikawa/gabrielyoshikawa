@@ -1,9 +1,3 @@
-<h1 align="center"> Hi there! 👋</h1>
-
-<h2 align="center"> I'm Gabriel 😎</h2>
-  
-<br>
-
 <div align="center">
   <a href="https://github.com/gabrielyoshikawa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielyoshikawa&show_icons=true&theme=react&border=61dafb&hide_border=true&include_all_commits=true&count_private=true"/>
