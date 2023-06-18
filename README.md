@@ -8,9 +8,8 @@
   
 <h3 align="center"> Developer Profiles:</h3>
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Python-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="HTML-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <a href="https://cdnlogo.com/logo/stack-overflow_92321.html"><img align="center" alt="HTML-Icon" height="30" width="40" src="https://cdn.cdnlogo.com/logos/s/63/stack-overflow.svg"></a>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5.15.0/icons/leetcode.svg" alt="LeetCode-Icon" height="30" width="40">
 </div>
 
   ##
