@@ -8,8 +8,8 @@
   
 <h3 align="center"> Developer Profiles:</h3>
 <div align="center" style="display: inline_block"><br>
-  <a href="https://cdnlogo.com/logo/stack-overflow_92321.html](https://stackoverflow.com/users/21125561/gabriel-yoshikawa-koti)"><img align="center" alt="HTML-Icon" height="30" width="40" src="https://cdn.cdnlogo.com/logos/s/63/stack-overflow.svg"></a>
-  <a href="https://www.leetcode.com/priyankeshraj](https://leetcode.com/gabrielyoshikawa/" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="priyankeshraj" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/21125561/gabriel-yoshikawa-koti)"><img align="center" alt="HTML-Icon" height="30" width="40" src="https://cdn.cdnlogo.com/logos/s/63/stack-overflow.svg"></a>
+  <a href="https://leetcode.com/gabrielyoshikawa/" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" align="center" height="30" width="40" /></a>
 </div>
 
   ##
