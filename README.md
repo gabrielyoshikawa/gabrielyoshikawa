@@ -9,7 +9,7 @@
 <h3 align="center"> Developer Profiles:</h3>
 <div align="center" style="display: inline_block"><br>
   <a href="https://cdnlogo.com/logo/stack-overflow_92321.html"><img align="center" alt="HTML-Icon" height="30" width="40" src="https://cdn.cdnlogo.com/logos/s/63/stack-overflow.svg"></a>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5.15.0/icons/leetcode.svg" alt="LeetCode-Icon" height="30" width="40">
+  <img src="https://simpleicons.org/icons/leetcode.svg" alt="LeetCode Icon" width="24px" height="24px">
 </div>
 
   ##
